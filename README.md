@@ -16,7 +16,7 @@ CrossChainListingBridge --> 0x93758839BcA799382Dd9987e5bD46ED3e8e792FC
 
 ## Tech Stack
 Solidity ^ 0.8.24
-OpenZeppelin Contracts 5.0.2 (ERC20Votes, AccessControl, ReentrancyGuard, SafeERC20
+OpenZeppelin Contracts 5.0.2 (ERC20Votes, AccessControl, ReentrancyGuard, SafeERC20)
 Hardhat for compilation, testing, and coverage
 GitHub Actions CI (lint, compile, test, coverage)
 Deployed and demonstrated Remix + Metamask on Sepolia
