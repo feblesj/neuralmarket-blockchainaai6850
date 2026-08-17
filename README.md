@@ -1,7 +1,7 @@
 ## NeuralMarket, Enterprise-Ready Blockchain-AI Marketplace
 This is a decentralized marketplace for buying and selling AI models and datasets with a token economy, staking, on-chain governance, oracle-verified quality, privacy controls, and cross-chain reach. By Jack Febles.
 ## What it Seeks to Do
-Providers list their I models; before a listing goes live, the platform will check an oracle-supplied quality score. Buyers pay in the platform token (NRL); a small, community-governed fee is routed to a staking reward pool. Premium items support sealed bid auctions via commit-reveal, and access to purchased models and datasets has a role-based permission system. Listings can be mirrored across blockchains. Token holders can help change rules through on-chain proposals.
+Providers list their AI models; before a listing goes live, the platform will check an oracle-supplied quality score. Buyers pay in the platform token (NRL); a small, community-governed fee is routed to a staking reward pool. Premium items support sealed bid auctions via commit-reveal, and access to purchased models and datasets has a role-based permission system. Listings can be mirrored across blockchains. Token holders can help change rules through on-chain proposals.
 ## Deployment (Sepolia Testnet)
 
 ## Contract              Address
